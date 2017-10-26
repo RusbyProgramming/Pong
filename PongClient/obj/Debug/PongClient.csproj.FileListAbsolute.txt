@@ -1,0 +1,10 @@
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.Form1.resources
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.Properties.Resources.resources
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.csproj.GenerateResource.Cache
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\Pong\PongClient\bin\Debug\PongClient.exe.config
+C:\Users\Kyle\source\repos\Pong\PongClient\bin\Debug\PongClient.exe
+C:\Users\Kyle\source\repos\Pong\PongClient\bin\Debug\PongClient.pdb
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.exe
+C:\Users\Kyle\source\repos\Pong\PongClient\obj\Debug\PongClient.pdb

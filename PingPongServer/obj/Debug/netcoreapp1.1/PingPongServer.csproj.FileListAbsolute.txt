@@ -1,0 +1,10 @@
+C:\Users\Kyle\source\repos\Pong\PingPongServer\bin\Debug\netcoreapp1.1\PingPongServer.deps.json
+C:\Users\Kyle\source\repos\Pong\PingPongServer\bin\Debug\netcoreapp1.1\PingPongServer.runtimeconfig.json
+C:\Users\Kyle\source\repos\Pong\PingPongServer\bin\Debug\netcoreapp1.1\PingPongServer.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\Pong\PingPongServer\bin\Debug\netcoreapp1.1\PingPongServer.dll
+C:\Users\Kyle\source\repos\Pong\PingPongServer\bin\Debug\netcoreapp1.1\PingPongServer.pdb
+C:\Users\Kyle\source\repos\Pong\PingPongServer\obj\Debug\netcoreapp1.1\PingPongServer.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\source\repos\Pong\PingPongServer\obj\Debug\netcoreapp1.1\PingPongServer.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\Pong\PingPongServer\obj\Debug\netcoreapp1.1\PingPongServer.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\Pong\PingPongServer\obj\Debug\netcoreapp1.1\PingPongServer.dll
+C:\Users\Kyle\source\repos\Pong\PingPongServer\obj\Debug\netcoreapp1.1\PingPongServer.pdb
